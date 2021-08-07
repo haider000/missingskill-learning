@@ -36,8 +36,8 @@ JavaScript is a dynamic type language, which means that you don't need to define
 ```
 - String - Stores text. In JavaScript, strings can’t be changed, and they must be inside of either double or single quotes.  
 ```JavaScript
-    var firstName="Dipankar"; 
-    var lastName='Chakraborty';
+    var firstName="Bob"; 
+    var lastName="Marley";
 ```
 - Boolean - Stores true or false
 ```JavaScript
